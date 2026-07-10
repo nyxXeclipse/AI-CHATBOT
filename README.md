@@ -73,7 +73,7 @@ Simply open `index.html` in your browser, or use the **Live Server** extension i
 
 ## 📸 Screenshots
 
-Add screenshots of your application here.
+![Chat Page](screenshots/chat.png)
 
 Example:
 
